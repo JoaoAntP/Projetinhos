@@ -1,0 +1,17 @@
+.corpo {
+     background-color: black;
+    }
+
+.text-cointainer{
+    text-align: center;
+    }
+
+.text {
+    color: white;
+    }
+.capa-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

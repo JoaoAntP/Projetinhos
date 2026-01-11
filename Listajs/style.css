@@ -1,0 +1,24 @@
+li{
+    margin-top: 10px;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #212529;
+    text-decoration: none;
+    background-color: #fff;
+}
+
+a{
+    color: red;
+    background-color: transparent;
+    border-color: royalblue;
+    display: inline-block;
+    padding: 0.25rem;
+    text-decoration: none;
+    margin: 5px;
+}
+
+a:hover{
+    color: white;
+    opacity: 0.7;
+    transition: 1s;
+}

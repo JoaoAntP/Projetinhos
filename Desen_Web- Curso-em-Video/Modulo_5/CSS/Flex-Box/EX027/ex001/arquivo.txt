@@ -1,0 +1,17 @@
+O pai não leva
+
+
+-flex-direction
+flex-direction: row; -->(main-axis)
+flex-direction: row-reverse; <--
+flex-direction: column; |(cross-axis)
+                       \/ 
+                       
+            
+
+
+pegar anotação no pdf
+
+flex-wrap não esta configurado normalmente, reseve vai pro sentido oposto do eixo cross-axiss
+
+flex-flow

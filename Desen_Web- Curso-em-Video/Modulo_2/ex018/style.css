@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Gharather;
+    src: url(Gharather.ttf);
+  
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3em;
+    font-weight: normal;
+
+}
