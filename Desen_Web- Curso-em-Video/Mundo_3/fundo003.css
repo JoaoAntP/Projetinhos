@@ -1,0 +1,12 @@
+div.bloco{
+    background-image: url();
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+div#q1{}
+div#q2{}
+div#q3{}
+div#q4{}
