@@ -90,7 +90,7 @@ header > p {
     padding-right: 10px;
     text-shadow: 2px 2px 0px #181717;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     
 }
 
@@ -220,4 +220,5 @@ div.video > iframe{
     left: 5%;
     width: 90%;
     height: 90%;
+
 }
